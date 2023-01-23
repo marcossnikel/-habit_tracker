@@ -14,4 +14,4 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ![Initial Screen](web/src/assets/screen.png "Initial Screen")
 ![Functional Layout](web/src/assets/functional.png "Functional Layout")
-![Register New Habit ](/web/src/assets/new.png"Register New Habit")
+![Register New Habit ](/web/src/assets/new.png "Register New Habit")
