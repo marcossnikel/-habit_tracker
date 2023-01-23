@@ -12,10 +12,10 @@ The project is still in development and still has some tasks to do so:
 
 ## Project Layout 🟪
 
-#### Initial Screen
+#### -> Initial Screen
 ![Initial Screen](web/src/assets/screen.png "Initial Screen")
-#### Functional Layout
+#### -> Functional Layout
 ![Functional Layout](web/src/assets/functional.png "Functional Layout")
 
-#### Register New Habit
+#### -> Register New Habit
 ![Register New Habit ](/web/src/assets/new.png "Register New Habit")
